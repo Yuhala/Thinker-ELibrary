@@ -3,7 +3,9 @@ The sofiaELibrary is a free online digital library working on laravel backend.Th
 
 **Software Specifications (Inspired by a publication by Tumi Akinade , Hybrid Cloud Technical Specialist at IBM)**
 *The web app should be able to function as a website (the welcome page) and a world class digital library
+
 *THe library will contain a wide range catalogue of electronic books with digital rights.
+
 *The library will be accessible via the internet using a laptop, smartphone, tablet, PDA or desktop computer
 *A mobile app will be created
 *The library will contain books that can be read online (html format),or downloaded (epub, pdf...)
