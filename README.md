@@ -3,8 +3,9 @@ SofiaELibrary
 
 The sofiaELibrary is a free online digital library working on laravel backend.The purpose of the project is to create an online platform to provide information for African students. 
 
-Software Specifications (Inspired by a publication by Tumi Akinade , Hybrid Cloud Technical Specialist at IBM)
+Software Specifications
 --------------------------------------------------------------------------------------------------------------
+ The following software specifications were inspired by a publication by Tumi Akinade , Hybrid Cloud Technical Specialist at IBM
 1. The web app should be able to function as a website (the welcome page) and a world class digital library
 
 1. THe library will contain a wide range catalogue of electronic books with digital rights.
