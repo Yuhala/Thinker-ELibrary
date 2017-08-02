@@ -62,7 +62,7 @@ Software Specifications
 
 Other Features
 ---------------
-1. The will be a password recovery tool
+1. There will be a password recovery tool
 
 1. Latest releases will be made known via sofiaMail, email, social tools etc
 
