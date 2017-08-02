@@ -79,7 +79,7 @@ Technical Features of the online library
 1. The welcome page will give a brief explanation of the sofia Elibrary and SSEA :earth_africa
 
 
-By Peterson Yuhala, [CEO SSEA](#)
+By Peterson Yuhala, [CEO & Founder SSEA](#)
 
 
 
