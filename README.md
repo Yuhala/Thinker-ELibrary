@@ -1,7 +1,7 @@
-SofiaELibrary
-=============
+Thinker ELibrary
+================
 
-The sofiaELibrary is a free online digital library working on laravel backend.The purpose of the project is to create an online platform to provide information for African students. 
+The Thinker ELibrary is a free online digital library working on laravel backend.The purpose of the project is to create an online platform to provide information for African students. 
 
 Software Specifications
 --------------------------------------------------------------------------------------------------------------
@@ -64,7 +64,7 @@ Other Features
 ---------------
 1. There will be a password recovery tool
 
-1. Latest releases will be made known via sofiaMail, email, social tools etc
+1. Latest releases will be made known via thinkerMail, email, social tools etc
 
 1. There will be a book recommendation tool ie similar books can be recommended a user viewing a book
 
@@ -76,7 +76,7 @@ Technical Features of the online library
 -----------------------------------------
 1. The frontend of the eLibrary will be based on AdminLTE bootstrap web template and the backend on laravel
 
-1. The welcome page will give a brief explanation of the sofia Elibrary and SSEA :earth_africa
+1. The welcome page will give a brief explanation of the thinker Elibrary and SSEA :earth_africa
 
 
 By Peterson Yuhala, [CEO & Founder SSEA](#)
@@ -90,8 +90,8 @@ This software is licensed under the MIT license.
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
   in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
+  to use, copy, modify, merge, publish, distribute,and sublicense copies
+  of the Software, and to permit persons to whom the Software is
   furnished to do so, subject to the following conditions:
 
   The above copyright notice and this permission notice shall be included in
